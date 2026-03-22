@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="طقوس">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#0ea5e9"/>
+    </linearGradient>
+    <radialGradient id="r" cx="50%" cy="35%" r="60%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#071225"/>
+    </radialGradient>
+  </defs>
+  <rect width="128" height="128" rx="30" fill="url(#r)"/>
+  <circle cx="44" cy="44" r="18" fill="url(#g)"/>
+  <path d="M76 35c10 0 18 8 18 18 0 2-.3 4-1 5.8 8.1 2.1 14 9.5 14 18.2 0 10.4-8.4 19-18.8 19H46c-12.2 0-22-9.8-22-22 0-11.6 9-21.1 20.3-21.9C47 42.1 56.5 35 67.7 35H76z" fill="#e2e8f0" opacity=".96"/>
+  <path d="M47 102c3.8-6 4.1-11.8 1.2-17.6 8 4.9 8 11.9 4.5 17.6" fill="#7dd3fc"/>
+  <path d="M66 102c3.8-6 4.1-11.8 1.2-17.6 8 4.9 8 11.9 4.5 17.6" fill="#7dd3fc"/>
+  <path d="M85 102c3.8-6 4.1-11.8 1.2-17.6 8 4.9 8 11.9 4.5 17.6" fill="#7dd3fc"/>
+</svg>
